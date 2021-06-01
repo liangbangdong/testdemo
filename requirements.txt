@@ -1,4 +1,4 @@
 argparse==1.2.1
 uiautomator==0.1.33
-urllib3==1.9.1
+urllib3==1.26.5
 wsgiref==0.1.2
